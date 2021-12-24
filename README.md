@@ -1,7 +1,7 @@
 # EladTest
 EladTest
 
-1.  Copy zip file.
+1.  Download eladTest.zip file.
 2.  Extract from zip file.
 3.  Open CMD or EDI with terminal 
 4.  Run: 'npm i ' command to bring node modules
